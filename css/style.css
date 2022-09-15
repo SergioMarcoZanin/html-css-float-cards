@@ -13,10 +13,12 @@
     content: '';
     display: block;
     clear: both;
+    display: flex;
 }
 .container {
     max-width: 1400px;
     margin: auto;
+    
 }
 
 body{
@@ -35,3 +37,19 @@ h1{
 p{
     text-align: center;
 }
+/*--------------
+    MAIN
+---------------*/
+.Cards {
+    width: calc(20% - 10px);
+    background-color: black;
+    float: left;
+    padding: 10px;
+    margin: 25px;
+    
+}
+.info-cards{
+    color: white;
+    text-align-last:left;
+}
+
