@@ -22,3 +22,16 @@
 body{
     font-family: 'Fredoka', sans-serif;
 }
+
+/*--------------
+    HEADER
+---------------*/
+h1{
+    color: #E53170;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
