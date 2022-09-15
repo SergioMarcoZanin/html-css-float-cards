@@ -41,13 +41,20 @@ p{
     MAIN
 ---------------*/
 .Cards {
-    width: calc(20% - 10px);
+    width: 10cm;
     background-color: black;
     float: left;
     padding: 10px;
-    margin: 25px;
-    
+    margin: 15px; 
 }
+
+.imagine-cards{
+    display: block;
+    float: left;
+    width: 25%;
+    padding: 0%;
+}
+
 .info-cards{
     color: white;
     text-align-last:left;
